@@ -2,4 +2,4 @@ This is a school project that i have been working on, Its a semi-automatic syste
 
 I will continue this project for unspecified time.
 
-Sincered. Aksa
+Sincerely. Aksa
